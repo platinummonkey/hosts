@@ -5781,9 +5781,6 @@
 127.0.0.1 ads.databrainz.com
 127.0.0.1 static.databrainz.com
 
-# [datadoghq.com]
-127.0.0.1 api.datadoghq.com
-
 # [datahc.com]
 127.0.0.1 brands.datahc.com
 127.0.0.1 redirect.datahc.com
