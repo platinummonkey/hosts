@@ -47424,9 +47424,6 @@ ff02::3 ip6-allhosts
 # [databrainz.com]
 0.0.0.0 static.databrainz.com
 
-# [datadoghq.com]
-0.0.0.0 api.datadoghq.com
-
 # [datahc.com]
 0.0.0.0 brands.datahc.com
 0.0.0.0 redirect.datahc.com
