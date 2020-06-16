@@ -10,7 +10,7 @@
 [![license](https://img.shields.io/github/license/StevenBlack/hosts.svg)](https://github.com/StevenBlack/hosts/blob/master/license.txt)
 [![repo size](https://img.shields.io/github/repo-size/StevenBlack/hosts.svg)](https://github.com/StevenBlack/hosts)
 [![contributors](https://img.shields.io/github/contributors/StevenBlack/hosts.svg)](https://github.com/StevenBlack/hosts/graphs/contributors)
-[![Build Status](https://img.shields.io/travis/StevenBlack/hosts/master.svg)](https://travis-ci.org/StevenBlack/hosts)
+[![Build Status](https://img.shields.io/github/workflow/status/StevenBlack/hosts/CI/master)](https://github.com/StevenBlack/hosts/actions?workflow=CI)
 [![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/python/black)
 [![commits since last release](https://img.shields.io/github/commits-since/StevenBlack/hosts/latest.svg)](https://github.com/StevenBlack/hosts/commits/master)
 [![last commit](https://img.shields.io/github/last-commit/StevenBlack/hosts.svg)](https://github.com/StevenBlack/hosts/commits/master)
@@ -145,6 +145,27 @@ the performances under Windows (with DNS Client service enabled).
 each domain on a separate line. This is necessary because many implementations
 of URL blockers that rely on `hosts` files do not conform to the standard which
 allows multiple hosts on a single line.
+
+`--blacklist <blacklistfile>`, or `-x <blacklistfile>`: Append the given blacklist file
+in hosts format to the generated hosts file.
+
+`--whitelist <whitelistfile>`, or `-w <whitelistfile>`: Use the given whitelist file
+to remove hosts from the generated hosts file.
+
+#### Using NixOS:
+
+To install hosts file on your machine add the following into your `configuration.nix`:
+```haskell
+  networking.extraHosts = let 
+    hostsPath = https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts;
+    hostsFile = builtins.fetchurl hostsPath;
+  in builtins.readFile "${hostsFile}";
+```
+
+* NOTE: Change `hostsPath` if you need other versions of hosts file. 
+* NOTE: The call to `fetchurl` is impure. 
+Use `fetchFromGitHub` with the exact commit if you want to always get the same result.
+
 
 ## How do I control which sources are unified?
 
