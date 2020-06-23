@@ -3,9 +3,9 @@
 # This hosts file is a merged collection of hosts from reputable sources,
 # with a dash of crowd sourcing via GitHub
 #
-# Date: 23 June 2020 17:29:40 (UTC)
+# Date: 23 June 2020 17:31:36 (UTC)
 # Extensions added to this file: fakenews, gambling, porn, social
-# Number of unique domains: 82,798
+# Number of unique domains: 82,797
 #
 # Fetch the latest version of this file: https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
 # Project home page: https://github.com/StevenBlack/hosts
@@ -54314,7 +54314,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 hubnettech.net
 0.0.0.0 huper.kozow.com
 0.0.0.0 hyadegari.ir
-0.0.0.0 iamployed.nl
 0.0.0.0 ibda.adv.br
 0.0.0.0 idoux-maconnerie.fr
 0.0.0.0 ihpmed.ae
@@ -54606,6 +54605,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 s.kk30.com
 0.0.0.0 s14b.groundyun.cn
 0.0.0.0 saboorjaam.ir
+0.0.0.0 sad70gomel.of.by
 0.0.0.0 safaa.net.in
 0.0.0.0 sahathaikasetpan.com
 0.0.0.0 sahkoteerikangas.fi
@@ -82818,7 +82818,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.redditgifts.com
 0.0.0.0 www.redditinc.com
 0.0.0.0 www.redditmedia.com
-0.0.0.0 www.redditstatic.com
 0.0.0.0 pinpages.alwaysdata.net
 0.0.0.0 allotalk.com
 0.0.0.0 tiktok.com
