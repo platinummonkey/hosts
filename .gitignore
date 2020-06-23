@@ -1,8 +1,8 @@
 .idea
 *.iml
 myhosts
-blacklist
-whitelist
+# blacklist
+# whitelist
 readmeData.json
 hosts-*
 /web.config

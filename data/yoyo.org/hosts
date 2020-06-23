@@ -2,8 +2,8 @@
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Mon, 15 Jun 2020 11:49:32 GMT
-# entries:        3380
+# last updated:   Tue, 23 Jun 2020 11:50:15 GMT
+# entries:        3427
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&mimetype=plaintext&useip=0.0.0.0
@@ -11,7 +11,7 @@
 # other formats:  https://pgl.yoyo.org/adservers/formats.php
 # policy:         https://pgl.yoyo.org/adservers/policy.php
 #
-# start date:    Wed, 21 Jun 2000 00:00:00
+# start date:    Wed, 28 Jun 2000 00:00:00
 0.0.0.0 1-1ads.com
 0.0.0.0 101com.com
 0.0.0.0 101order.com
@@ -48,6 +48,7 @@
 0.0.0.0 a.aproductmsg.com
 0.0.0.0 a.consumer.net
 0.0.0.0 a.mktw.net
+0.0.0.0 a.pub.network
 0.0.0.0 a.sakh.com
 0.0.0.0 a.ucoz.net
 0.0.0.0 a.ucoz.ru
@@ -55,7 +56,9 @@
 0.0.0.0 a.vfgtb.com
 0.0.0.0 a.xanga.com
 0.0.0.0 a135.wftv.com
+0.0.0.0 aa-metrics.trip-ai.jp
 0.0.0.0 aaddzz.com
+0.0.0.0 aax-eu-dub.amazon.com
 0.0.0.0 aaxads.com
 0.0.0.0 aaxdetect.com
 0.0.0.0 abacho.net
@@ -124,6 +127,7 @@
 0.0.0.0 ad.freecity.de
 0.0.0.0 ad.gate24.ch
 0.0.0.0 ad.grafika.cz
+0.0.0.0 ad.gt
 0.0.0.0 ad.hbv.de
 0.0.0.0 ad.hodomobile.com
 0.0.0.0 ad.httpool.com
@@ -145,6 +149,7 @@
 0.0.0.0 ad.mgd.de
 0.0.0.0 ad.musicmatch.com
 0.0.0.0 ad.myapple.pl
+0.0.0.0 ad.mynetreklam.com.streamprovider.net
 0.0.0.0 ad.nachtagenten.de
 0.0.0.0 ad.nozonedata.com
 0.0.0.0 ad.nttnavi.co.jp
@@ -157,6 +162,7 @@
 0.0.0.0 ad.reunion.com
 0.0.0.0 ad.sensismediasmart.com.au
 0.0.0.0 ad.seznam.cz
+0.0.0.0 ad.simflight.com
 0.0.0.0 ad.simgames.net
 0.0.0.0 ad.smartclip.net
 0.0.0.0 ad.tbn.ru
@@ -362,7 +368,6 @@
 0.0.0.0 ads-click.com
 0.0.0.0 ads-dev.pinterest.com
 0.0.0.0 ads-game-187f4.firebaseapp.com
-0.0.0.0 ads-software.net
 0.0.0.0 ads-trk.vidible.tv
 0.0.0.0 ads-twitter.com
 0.0.0.0 ads.4tube.com
@@ -402,6 +407,7 @@
 0.0.0.0 ads.blog.com
 0.0.0.0 ads.bloomberg.com
 0.0.0.0 ads.bluemountain.com
+0.0.0.0 ads.boerding.com
 0.0.0.0 ads.bonniercorp.com
 0.0.0.0 ads.boylesports.com
 0.0.0.0 ads.brabys.com
@@ -409,6 +415,7 @@
 0.0.0.0 ads.bumq.com
 0.0.0.0 ads.businessweek.com
 0.0.0.0 ads.canalblog.com
+0.0.0.0 ads.canoe.ca
 0.0.0.0 ads.casinocity.com
 0.0.0.0 ads.casumoaffiliates.com
 0.0.0.0 ads.cbc.ca
@@ -431,6 +438,7 @@
 0.0.0.0 ads.dada.it
 0.0.0.0 ads.dailycamera.com
 0.0.0.0 ads.datingyes.com
+0.0.0.0 ads.delfin.bg
 0.0.0.0 ads.deltha.hu
 0.0.0.0 ads.dennisnet.co.uk
 0.0.0.0 ads.desmoinesregister.com
@@ -442,6 +450,7 @@
 0.0.0.0 ads.directionsmag.com
 0.0.0.0 ads.domain.com
 0.0.0.0 ads.domeus.com
+0.0.0.0 ads.dtpnetwork.biz
 0.0.0.0 ads.eagletribune.com
 0.0.0.0 ads.easy-forex.com
 0.0.0.0 ads.economist.com
@@ -479,6 +488,7 @@
 0.0.0.0 ads.gaming-universe.de
 0.0.0.0 ads.gaming1.com
 0.0.0.0 ads.gawker.com
+0.0.0.0 ads.gaypoint.hu
 0.0.0.0 ads.geekswithblogs.net
 0.0.0.0 ads.getlucky.com
 0.0.0.0 ads.gld.dk
@@ -488,6 +498,7 @@
 0.0.0.0 ads.gplusmedia.com
 0.0.0.0 ads.gradfinder.com
 0.0.0.0 ads.grindinggears.com
+0.0.0.0 ads.groupewin.fr
 0.0.0.0 ads.gsm-exchange.com
 0.0.0.0 ads.gsmexchange.com
 0.0.0.0 ads.guardian.co.uk
@@ -505,6 +516,7 @@
 0.0.0.0 ads.ibryte.com
 0.0.0.0 ads.icq.com
 0.0.0.0 ads.ign.com
+0.0.0.0 ads.imagistica.com
 0.0.0.0 ads.img.co.za
 0.0.0.0 ads.imgur.com
 0.0.0.0 ads.independent.com.mt
@@ -532,6 +544,7 @@
 0.0.0.0 ads.larryaffiliates.com
 0.0.0.0 ads.leovegas.com
 0.0.0.0 ads.lesbianpersonals.com
+0.0.0.0 ads.liberte.pl
 0.0.0.0 ads.linkedin.com
 0.0.0.0 ads.linuxfoundation.org
 0.0.0.0 ads.livenation.com
@@ -543,6 +556,7 @@
 0.0.0.0 ads.mediaodyssey.com
 0.0.0.0 ads.mediasmart.es
 0.0.0.0 ads.medienhaus.de
+0.0.0.0 ads.meetcelebs.com
 0.0.0.0 ads.mgnetwork.com
 0.0.0.0 ads.miarroba.com
 0.0.0.0 ads.mic.com
@@ -554,6 +568,10 @@
 0.0.0.0 ads.motormedia.nl
 0.0.0.0 ads.msn.com
 0.0.0.0 ads.multimania.lycos.fr
+0.0.0.0 ads.muslimehelfen.org
+0.0.0.0 ads.mvscoelho.com
+0.0.0.0 ads.myadv.org
+0.0.0.0 ads.nccwebs.com
 0.0.0.0 ads.ncm.com
 0.0.0.0 ads.ndtv1.com
 0.0.0.0 ads.networksolutions.com
@@ -580,12 +598,14 @@
 0.0.0.0 ads.outpersonals.com
 0.0.0.0 ads.passion.com
 0.0.0.0 ads.pennet.com
+0.0.0.0 ads.pfl.ua
 0.0.0.0 ads.phpclasses.org
 0.0.0.0 ads.pinterest.com
 0.0.0.0 ads.planet.nl
 0.0.0.0 ads.pni.com
 0.0.0.0 ads.pof.com
 0.0.0.0 ads.powweb.com
+0.0.0.0 ads.ppvmedien.de
 0.0.0.0 ads.praguetv.cz
 0.0.0.0 ads.primissima.it
 0.0.0.0 ads.printscr.com
@@ -598,13 +618,16 @@
 0.0.0.0 ads.quasaraffiliates.com
 0.0.0.0 ads.quoka.de
 0.0.0.0 ads.radio1.lv
+0.0.0.0 ads.rcncdn.de
 0.0.0.0 ads.rcs.it
 0.0.0.0 ads.recoletos.es
+0.0.0.0 ads.redactor.in.ua
 0.0.0.0 ads.rediff.com
 0.0.0.0 ads.redlightcenter.com
 0.0.0.0 ads.revjet.com
 0.0.0.0 ads.satyamonline.com
 0.0.0.0 ads.saymedia.com
+0.0.0.0 ads.schmoozecom.net
 0.0.0.0 ads.scifi.com
 0.0.0.0 ads.seniorfriendfinder.com
 0.0.0.0 ads.servebom.com
@@ -629,6 +652,7 @@
 0.0.0.0 ads.thrillsaffiliates.com
 0.0.0.0 ads.tiktok.com
 0.0.0.0 ads.tmcs.net
+0.0.0.0 ads.todoti.com.br
 0.0.0.0 ads.toplayaffiliates.com
 0.0.0.0 ads.totallyfreestuff.com
 0.0.0.0 ads.townhall.com
@@ -653,6 +677,7 @@
 0.0.0.0 ads.videosz.com
 0.0.0.0 ads.viksaffiliates.com
 0.0.0.0 ads.virtual-nights.com
+0.0.0.0 ads.virtuopolitan.com
 0.0.0.0 ads.vnumedia.com
 0.0.0.0 ads.waps.cn
 0.0.0.0 ads.wapx.cn
@@ -679,6 +704,7 @@
 0.0.0.0 ads.zdnet.com
 0.0.0.0 ads.ztod.com
 0.0.0.0 ads1-adnow.com
+0.0.0.0 ads1.canoe.ca
 0.0.0.0 ads1.mediacapital.pt
 0.0.0.0 ads1.msn.com
 0.0.0.0 ads1.rne.com
@@ -694,7 +720,9 @@
 0.0.0.0 ads2.oneplace.com
 0.0.0.0 ads2.opensubtitles.org
 0.0.0.0 ads2.rne.com
+0.0.0.0 ads2.techads.info
 0.0.0.0 ads2.virtual-nights.com
+0.0.0.0 ads2.webdrive.no
 0.0.0.0 ads2.xnet.cz
 0.0.0.0 ads2004.treiberupdate.de
 0.0.0.0 ads24h.net
@@ -706,6 +734,7 @@
 0.0.0.0 ads4.gamecity.net
 0.0.0.0 ads4.virtual-nights.com
 0.0.0.0 ads4homes.com
+0.0.0.0 ads5.canoe.ca
 0.0.0.0 ads5.virtual-nights.com
 0.0.0.0 ads6.gamecity.net
 0.0.0.0 ads7.gamecity.net
@@ -738,15 +767,18 @@
 0.0.0.0 adserver.bizhat.com
 0.0.0.0 adserver.break-even.it
 0.0.0.0 adserver.cams.com
+0.0.0.0 adserver.cdnstream.com
 0.0.0.0 adserver.com
 0.0.0.0 adserver.diariodosertao.com.br
 0.0.0.0 adserver.digitoday.com
+0.0.0.0 adserver.echdk.pl
 0.0.0.0 adserver.freecity.de
 0.0.0.0 adserver.friendfinder.com
 0.0.0.0 adserver.hardsextube.com
 0.0.0.0 adserver.hardwareanalysis.com
 0.0.0.0 adserver.html.it
 0.0.0.0 adserver.hwupgrade.it
+0.0.0.0 adserver.ilango.de
 0.0.0.0 adserver.irishwebmasterforum.com
 0.0.0.0 adserver.janes.com
 0.0.0.0 adserver.libero.it
@@ -838,6 +870,7 @@
 0.0.0.0 adtoma.com
 0.0.0.0 adtrace.org
 0.0.0.0 adtrade.net
+0.0.0.0 adtrak.net
 0.0.0.0 adtriplex.com
 0.0.0.0 adultadvertising.com
 0.0.0.0 adv-adserver.com
@@ -969,6 +1002,7 @@
 0.0.0.0 analytics.icons8.com
 0.0.0.0 analytics.inlinemanual.com
 0.0.0.0 analytics.jabong.com
+0.0.0.0 analytics.jst.ai
 0.0.0.0 analytics.live.com
 0.0.0.0 analytics.mailmunch.co
 0.0.0.0 analytics.myfinance.com
@@ -981,6 +1015,7 @@
 0.0.0.0 analytics.siliconexpert.com
 0.0.0.0 analytics.swiggy.com
 0.0.0.0 analytics.yahoo.com
+0.0.0.0 analyticsapi.happypancake.net
 0.0.0.0 aniview.com
 0.0.0.0 annonser.dagbladet.no
 0.0.0.0 anrdoezrs.net
@@ -1122,6 +1157,7 @@
 0.0.0.0 bannerspace.com
 0.0.0.0 bannerswap.com
 0.0.0.0 bannertesting.com
+0.0.0.0 bannertrack.net
 0.0.0.0 bannery.cz
 0.0.0.0 bannieres.acces-contenu.com
 0.0.0.0 bans.bride.ru
@@ -1378,6 +1414,7 @@
 0.0.0.0 concernedcondition.com
 0.0.0.0 conductrics.com
 0.0.0.0 connatix.com
+0.0.0.0 connectad.io
 0.0.0.0 connextra.com
 0.0.0.0 consciouschairs.com
 0.0.0.0 consensad.com
@@ -1503,6 +1540,7 @@
 0.0.0.0 didtheyreadit.com
 0.0.0.0 digital-ads.s3.amazonaws.com
 0.0.0.0 digitalmerkat.com
+0.0.0.0 direct-events-collector.spot.im
 0.0.0.0 direct-xxx-access.com
 0.0.0.0 directaclick.com
 0.0.0.0 directivepub.com
@@ -1663,6 +1701,7 @@
 0.0.0.0 fadedprofit.com
 0.0.0.0 fadedsnow.com
 0.0.0.0 famousquarter.com
+0.0.0.0 faracoon.com
 0.0.0.0 farethief.com
 0.0.0.0 farmergoldfish.com
 0.0.0.0 fascinatedfeather.com
@@ -1752,6 +1791,7 @@
 0.0.0.0 geovisite.com
 0.0.0.0 getclicky.com
 0.0.0.0 getintent.com
+0.0.0.0 getmyads.com
 0.0.0.0 giddycoat.com
 0.0.0.0 globalismedia.com
 0.0.0.0 globaltakeoff.net
@@ -1896,6 +1936,7 @@
 0.0.0.0 ilead.itrack.it
 0.0.0.0 illfatedsnail.com
 0.0.0.0 illustriousoatmeal.com
+0.0.0.0 imageads.canoe.ca
 0.0.0.0 imagecash.net
 0.0.0.0 images-pw.secureserver.net
 0.0.0.0 imarketservices.com
@@ -2192,6 +2233,7 @@
 0.0.0.0 metaffiliation.com
 0.0.0.0 metanetwork.com
 0.0.0.0 methodcash.com
+0.0.0.0 metrics-logger.spot.im
 0.0.0.0 metrics.api.drift.com
 0.0.0.0 metrics.cnn.com
 0.0.0.0 metrics.consumerreports.org
@@ -2417,7 +2459,6 @@
 0.0.0.0 pagead.l.google.com
 0.0.0.0 pagefair.com
 0.0.0.0 pagefair.net
-0.0.0.0 pagerank-ranking.de
 0.0.0.0 pagerank4you.com
 0.0.0.0 pageranktop.com
 0.0.0.0 paleleaf.com
@@ -2559,6 +2600,7 @@
 0.0.0.0 pubdirecte.com
 0.0.0.0 publicidad.elmundo.es
 0.0.0.0 publicidees.com
+0.0.0.0 publisher-assets.spot.im
 0.0.0.0 pubmatic.com
 0.0.0.0 pubmine.com
 0.0.0.0 pubnative.net
@@ -2708,6 +2750,7 @@
 0.0.0.0 rsalcdp.com
 0.0.0.0 rta.dailymail.co.uk
 0.0.0.0 rtb.gumgum.com
+0.0.0.0 rtb.openx.net
 0.0.0.0 rtbadzesto.com
 0.0.0.0 rtbflairads.com
 0.0.0.0 rtbidhost.com
@@ -2810,6 +2853,7 @@
 0.0.0.0 sinoa.com
 0.0.0.0 sitedataprocessing.com
 0.0.0.0 siteimproveanalytics.com
+0.0.0.0 siteimproveanalytics.io
 0.0.0.0 siteintercept.qualtrics.com
 0.0.0.0 sitemeter.com
 0.0.0.0 sixscissors.com
@@ -2973,6 +3017,7 @@
 0.0.0.0 t.insigit.com
 0.0.0.0 t.irtyd.com
 0.0.0.0 taboola.com
+0.0.0.0 tag.links-analytics.com
 0.0.0.0 tagan.adlightning.com
 0.0.0.0 tagger.opecloud.com
 0.0.0.0 tags.tiqcdn.com
@@ -3102,6 +3147,7 @@
 0.0.0.0 tracker.vgame.us
 0.0.0.0 tracking.1-a1502-bi.co.uk
 0.0.0.0 tracking.1-kv015-ap.co.uk
+0.0.0.0 tracking.21-a4652-bi.co.uk
 0.0.0.0 tracking.5-47737-bi.co.uk
 0.0.0.0 tracking.crunchiemedia.com
 0.0.0.0 tracking.epicgames.com
@@ -3319,6 +3365,7 @@
 0.0.0.0 wondoads.de
 0.0.0.0 woopra.com
 0.0.0.0 worldwide-cash.net
+0.0.0.0 worldwidedigitalads.com
 0.0.0.0 worriednumber.com
 0.0.0.0 worrybutter.com
 0.0.0.0 wpnrtnmrewunrtok.xyz
