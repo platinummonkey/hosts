@@ -3,9 +3,9 @@
 # This hosts file is a merged collection of hosts from reputable sources,
 # with a dash of crowd sourcing via GitHub
 #
-# Date: 23 June 2020 17:21:56 (UTC)
+# Date: 23 June 2020 17:29:40 (UTC)
 # Extensions added to this file: fakenews, gambling, porn, social
-# Number of unique domains: 82,797
+# Number of unique domains: 82,798
 #
 # Fetch the latest version of this file: https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
 # Project home page: https://github.com/StevenBlack/hosts
@@ -53946,6 +53946,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 123evdenevenakliyat.com
 0.0.0.0 1home.az
 0.0.0.0 1sp2d.club
+0.0.0.0 1sp3d.club
 0.0.0.0 2000kumdo.com
 0.0.0.0 21robo.com
 0.0.0.0 220market.net
@@ -53961,7 +53962,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 80yuanma.com
 0.0.0.0 9nag0.com
 0.0.0.0 a-reality.co.uk
-0.0.0.0 a.xiazai163.com
 0.0.0.0 aaronthompson.ug
 0.0.0.0 abacus4maths.co.za
 0.0.0.0 abass.ir
@@ -53991,7 +53991,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 am-concepts.ca
 0.0.0.0 amazhome.vn
 0.0.0.0 ambiseg.servsites.com.br
-0.0.0.0 amd.alibuf.com
 0.0.0.0 amemarine.co.th
 0.0.0.0 americanrange.com
 0.0.0.0 amm-madagascar.fr
@@ -54036,6 +54035,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 barikell.ua
 0.0.0.0 baritaco.com
 0.0.0.0 bavinksa.com
+0.0.0.0 bbs1.marisfrolg.com
 0.0.0.0 bcmbconsulting.com
 0.0.0.0 bds-hoalac.com
 0.0.0.0 beibei.xx007.cc
@@ -54086,7 +54086,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 celestron.pro
 0.0.0.0 centr-toshiba.by
 0.0.0.0 cf0.pw
-0.0.0.0 changematterscounselling.com
 0.0.0.0 chanvribloc.com
 0.0.0.0 charb.ir
 0.0.0.0 charm.bizfxr.com
@@ -54120,6 +54119,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 complanbt.hu
 0.0.0.0 computersblogfromus32.top
 0.0.0.0 comtechadsl.com
+0.0.0.0 config.cqhbkjzx.com
 0.0.0.0 config.kuaisousou.top
 0.0.0.0 config.wwmhdq.com
 0.0.0.0 corecheck.me
@@ -54156,12 +54156,12 @@ ff02::3 ip6-allhosts
 0.0.0.0 dev.awen.co
 0.0.0.0 dev.celestron.pro
 0.0.0.0 dev.sebpo.net
-0.0.0.0 dezcom.com
 0.0.0.0 dfcf.91756.cn
 0.0.0.0 dfd.zhzy999.net
 0.0.0.0 dfzm.91756.cn
 0.0.0.0 dgecolesdepolice.bf
 0.0.0.0 dgetasonora.gob.mx
+0.0.0.0 dgnj.cn
 0.0.0.0 diamondgirlsbartenders.com
 0.0.0.0 diazavendano.cl
 0.0.0.0 dichvuvesinhcongnghiep.top
@@ -54173,7 +54173,9 @@ ff02::3 ip6-allhosts
 0.0.0.0 ditec.com.my
 0.0.0.0 djmixers.co
 0.0.0.0 dkw-engineering.net
+0.0.0.0 dl.1003b.56a.com
 0.0.0.0 dl.dzqzd.com
+0.0.0.0 dl.iqilie.com
 0.0.0.0 dl.kuaile-u.com
 0.0.0.0 dlist.iqilie.com
 0.0.0.0 dmcfund.lu
@@ -54189,7 +54191,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 dosame.com
 0.0.0.0 down.ancamera.co.kr
 0.0.0.0 down.pcclear.com
-0.0.0.0 down.pdflist.cqhbkjzx.com
 0.0.0.0 down.startools.co.kr
 0.0.0.0 down.tgjkbx.cn
 0.0.0.0 down.webbora.com
@@ -54301,7 +54302,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 himtara.com
 0.0.0.0 hingcheong.hk
 0.0.0.0 hmbwgroup.com
-0.0.0.0 hmpmall.co.kr
 0.0.0.0 hosseinsoltani.ir
 0.0.0.0 hostzaa.com
 0.0.0.0 hotart.co.nz
@@ -54474,7 +54474,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 mueblesjcp.cl
 0.0.0.0 multitechonline.net
 0.0.0.0 musicaptest.com
-0.0.0.0 mutec.jp
+0.0.0.0 mv360.net
 0.0.0.0 mvb.kz
 0.0.0.0 mybooksplanet.in
 0.0.0.0 mylocalspa.com
@@ -54551,6 +54551,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 placenpick.com
 0.0.0.0 pobeda-avto.ru
 0.0.0.0 podarok.yuyustyle.com
+0.0.0.0 ponto50.com.br
 0.0.0.0 ppl.ac.id
 0.0.0.0 pradzsa.co.za
 0.0.0.0 printlin.in
@@ -54573,11 +54574,13 @@ ff02::3 ip6-allhosts
 0.0.0.0 razvivashka.kz
 0.0.0.0 rc.ixiaoyang.cn
 0.0.0.0 rccollections.in
+0.0.0.0 rdv-au-barachampagne.fr
 0.0.0.0 re-energy.com.ua
 0.0.0.0 real-song.tjmedia.co.kr
 0.0.0.0 reciclare.info.ro
 0.0.0.0 redesoftdownload.info
 0.0.0.0 redferngallery.com
+0.0.0.0 reklamansk.com
 0.0.0.0 renim.https443.net
 0.0.0.0 renimin.mymom.info
 0.0.0.0 res.uf1.cn
@@ -54708,7 +54711,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 togras.si
 0.0.0.0 tonydong.com
 0.0.0.0 tonyzone.com
-0.0.0.0 tool.icafeads.com
 0.0.0.0 top-flex.com
 0.0.0.0 topcadeiras.com
 0.0.0.0 topdiodru.com
@@ -54867,7 +54869,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.starcountry.net
 0.0.0.0 www.swanseacityguide.co.uk
 0.0.0.0 www.szxypt.com
-0.0.0.0 www.tandenblekenhoofddorp.nl
 0.0.0.0 www.thc-annex.com
 0.0.0.0 www.ukks.net
 0.0.0.0 www.valencaagora.com.br
@@ -54899,6 +54900,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 zagruz.toh.info
 0.0.0.0 zakopane.utazas.hu
 0.0.0.0 zd4b.lonlyfafner.ru
+0.0.0.0 zdy.17110.com
 0.0.0.0 zenkashow.com
 0.0.0.0 zephyrglobal.ae
 0.0.0.0 zeytinyagisabun.com
@@ -82802,7 +82804,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 reddit-stream.com
 0.0.0.0 reddit-uploaded-media.s3-accelerate.amazonaws.com
 0.0.0.0 reddit-uploaded-video.s3-accelerate.amazonaws.com
-0.0.0.0 reddit.map.fastly.net
 0.0.0.0 redditblog.com
 0.0.0.0 redditgifts.com
 0.0.0.0 redditgifts.s3.amazonaws.com
