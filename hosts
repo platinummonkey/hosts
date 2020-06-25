@@ -3,9 +3,9 @@
 # This hosts file is a merged collection of hosts from reputable sources,
 # with a dash of crowd sourcing via GitHub
 #
-# Date: 25 June 2020 18:13:23 (UTC)
+# Date: 25 June 2020 18:16:42 (UTC)
 # Extensions added to this file: fakenews, gambling, porn, social
-# Number of unique domains: 82,780
+# Number of unique domains: 82,778
 #
 # Fetch the latest version of this file: https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
 # Project home page: https://github.com/StevenBlack/hosts
@@ -120,7 +120,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.amarktflow.com
 0.0.0.0 howupdateworks.amazingupdates4youtoday.website
 0.0.0.0 www.howupdateworks.amazingupdates4youtoday.website
-0.0.0.0 device-metrics-us.amazon.com
 0.0.0.0 device-metrics-us-2.amazon.com
 0.0.0.0 windowsphishingalert158.s3.amazonaws.com
 0.0.0.0 amazonco.uk
@@ -54196,6 +54195,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 fusionfiresolutions.com
 0.0.0.0 futuregraphics.com.ar
 0.0.0.0 gadem.ug
+0.0.0.0 gasfer.ru
 0.0.0.0 gateway-heide.de
 0.0.0.0 gbs-nettetal.de
 0.0.0.0 genealogievanslochteren.nl
@@ -54661,7 +54661,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 tool.icafeads.com
 0.0.0.0 top-flex.com
 0.0.0.0 topdiodru.com
-0.0.0.0 totebarreto.com.br
 0.0.0.0 trackingthemarkets.com
 0.0.0.0 tradetoolsbazaar.com
 0.0.0.0 tribunal.ug
@@ -54727,7 +54726,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 wsg.com.sg
 0.0.0.0 www.21robo.com
 0.0.0.0 www.2secure.co
-0.0.0.0 www.87du.vip
 0.0.0.0 www.accessyouraudience.com
 0.0.0.0 www.advertlab.net
 0.0.0.0 www.agsir.com

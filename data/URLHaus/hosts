@@ -1,6 +1,6 @@
 ################################################################
 # abuse.ch URLhaus Host file                                   #
-# Last updated: 2020-06-25 18:03:30 (UTC)                      #
+# Last updated: 2020-06-25 18:07:03 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/api/                  #
 # For questions please contact urlhaus [at] abuse.ch           #
@@ -316,6 +316,7 @@
 127.0.0.1	fusionfiresolutions.com
 127.0.0.1	futuregraphics.com.ar
 127.0.0.1	gadem.ug
+127.0.0.1	gasfer.ru
 127.0.0.1	gateway-heide.de
 127.0.0.1	gbs-nettetal.de
 127.0.0.1	genealogievanslochteren.nl
@@ -783,7 +784,6 @@
 127.0.0.1	tool.icafeads.com
 127.0.0.1	top-flex.com
 127.0.0.1	topdiodru.com
-127.0.0.1	totebarreto.com.br
 127.0.0.1	trackingthemarkets.com
 127.0.0.1	tradetoolsbazaar.com
 127.0.0.1	tribunal.ug
@@ -849,7 +849,6 @@
 127.0.0.1	wsg.com.sg
 127.0.0.1	www.21robo.com
 127.0.0.1	www.2secure.co
-127.0.0.1	www.87du.vip
 127.0.0.1	www.accessyouraudience.com
 127.0.0.1	www.advertlab.net
 127.0.0.1	www.agsir.com
@@ -988,4 +987,4 @@
 127.0.0.1	zrutaedu.com
 127.0.0.1	zsinstrument.com
 127.0.0.1	zss22.com
-# Number of entries: 982
+# Number of entries: 981
