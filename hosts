@@ -3,9 +3,9 @@
 # This hosts file is a merged collection of hosts from reputable sources,
 # with a dash of crowd sourcing via GitHub
 #
-# Date: 25 June 2020 18:16:42 (UTC)
+# Date: 25 June 2020 18:19:40 (UTC)
 # Extensions added to this file: fakenews, gambling, porn, social
-# Number of unique domains: 82,778
+# Number of unique domains: 82,776
 #
 # Fetch the latest version of this file: https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
 # Project home page: https://github.com/StevenBlack/hosts
@@ -53982,7 +53982,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 bds-hoalac.com
 0.0.0.0 beibei.xx007.cc
 0.0.0.0 belevingstuin-priorij.nl
-0.0.0.0 belobrova.eu
 0.0.0.0 bhfz-ort.tk
 0.0.0.0 bildeboks.no
 0.0.0.0 biobliss.in
@@ -54075,7 +54074,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 da.alibuf.com
 0.0.0.0 danielbastos.com
 0.0.0.0 danira.ro
-0.0.0.0 danlaforest.com
 0.0.0.0 darco.pk
 0.0.0.0 darkwebforum.net
 0.0.0.0 data.kaoyany.top
@@ -54084,7 +54082,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 dawaphoto.co.kr
 0.0.0.0 demo.cnopencart.com
 0.0.0.0 demo.illerarasinakliyat.com
-0.0.0.0 demonetarise.fr
 0.0.0.0 denkagida.com.tr
 0.0.0.0 depot7.com
 0.0.0.0 derivativespro.in
@@ -54508,6 +54505,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 quttnerttatert.com
 0.0.0.0 r1.targobank.su
 0.0.0.0 raganosbrigitosdvarelis.lt
+0.0.0.0 rainbowisp.info
 0.0.0.0 rakbot.g3t.ru
 0.0.0.0 rankanddesign.com
 0.0.0.0 ratamodu.ga
