@@ -3,9 +3,9 @@
 # This hosts file is a merged collection of hosts from reputable sources,
 # with a dash of crowd sourcing via GitHub
 #
-# Date: 26 June 2020 18:41:02 (UTC)
+# Date: 26 June 2020 18:44:11 (UTC)
 # Extensions added to this file: fakenews, gambling, porn, social
-# Number of unique domains: 82,623
+# Number of unique domains: 82,616
 #
 # Fetch the latest version of this file: https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
 # Project home page: https://github.com/StevenBlack/hosts
@@ -54005,7 +54005,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 cbunyil.com
 0.0.0.0 cccommercialcleaning.com.au
 0.0.0.0 ccnn.xiaomier.cn
-0.0.0.0 cdn.xiaoduoai.com
 0.0.0.0 cdnus.laboratoryconecpttoday.com
 0.0.0.0 centr-pc.by
 0.0.0.0 cf0.pw
@@ -54111,7 +54110,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 download.kaobeitu.com
 0.0.0.0 dreamtrips.cheap
 0.0.0.0 drive.google.com.it-barcelona.com
-0.0.0.0 dudulm.com
 0.0.0.0 dvct.be
 0.0.0.0 dvct.zephyrgroup.biz
 0.0.0.0 dwz.lefu.run
@@ -54120,7 +54118,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 easepc.co.uk
 0.0.0.0 easydown.workday360.cn
 0.0.0.0 ebrandmark.in
-0.0.0.0 echeberriadentistalaredo.com
 0.0.0.0 ecviptrade.com
 0.0.0.0 edicolanazionale.it
 0.0.0.0 ehrenreich.dk
@@ -54149,8 +54146,10 @@ ff02::3 ip6-allhosts
 0.0.0.0 felixcarpetcleaning.com
 0.0.0.0 filen3.utengine.co.kr
 0.0.0.0 filen5.utengine.co.kr
+0.0.0.0 files.fqapps.com
 0.0.0.0 files.rakbot.ru
 0.0.0.0 files6.uludagbilisim.com
+0.0.0.0 findemlak.com
 0.0.0.0 firsatoutlet.com
 0.0.0.0 fishingbigstore.com
 0.0.0.0 fitmanacademy.com
@@ -54233,7 +54232,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 indokemika-group.com
 0.0.0.0 info.lovefit.com
 0.0.0.0 ingenierialinum.es
-0.0.0.0 ini.egkj.com
 0.0.0.0 inigbiseijfji.ru
 0.0.0.0 inspocoach.com
 0.0.0.0 interbus.cz
@@ -54365,6 +54363,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 mtfelektroteknik.com
 0.0.0.0 mueblesjcp.cl
 0.0.0.0 musicaptest.com
+0.0.0.0 mv360.net
 0.0.0.0 mvb.kz
 0.0.0.0 mybooksplanet.in
 0.0.0.0 myo.net.au
@@ -54456,7 +54455,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 rankanddesign.com
 0.0.0.0 ratamodu.ga
 0.0.0.0 razvivashka.kz
-0.0.0.0 rc.ixiaoyang.cn
 0.0.0.0 rccollections.in
 0.0.0.0 rdv-au-barachampagne.fr
 0.0.0.0 re-energy.com.ua
@@ -54487,7 +54485,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 rusch.nu
 0.0.0.0 s.51shijuan.com
 0.0.0.0 s.kk30.com
-0.0.0.0 s14b.groundyun.cn
 0.0.0.0 saboorjaam.ir
 0.0.0.0 sad70gomel.of.by
 0.0.0.0 safaa.net.in
@@ -54717,7 +54714,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.rinnovopatentecaserta.com
 0.0.0.0 www.riyanenterprise.com
 0.0.0.0 www.robertmcardle.com
-0.0.0.0 www.rossofuoco.com
 0.0.0.0 www.rusch.nu
 0.0.0.0 www.sample-supply.com
 0.0.0.0 www.sefp-boispro.fr
@@ -54728,7 +54724,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.sslv3.at
 0.0.0.0 www.starcountry.net
 0.0.0.0 www.szxypt.com
-0.0.0.0 www.tandenblekenhoofddorp.nl
 0.0.0.0 www.thc-annex.com
 0.0.0.0 www.tnisheng.xyz
 0.0.0.0 www.ukks.net
@@ -54747,7 +54742,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 xn--2000-f4dm3ea0a4b.xn--p1ai
 0.0.0.0 xn--21-hmca7a.xn--p1ai
 0.0.0.0 xn--80adegn0adoige0a.xn--p1ai
-0.0.0.0 xpodip.ir
 0.0.0.0 xtremeforumz.com
 0.0.0.0 xw99.chokun.ru
 0.0.0.0 yamunatimes.com
@@ -81458,7 +81452,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 vupload2.vvv.facebook.com
 0.0.0.0 w.facebook.com
 0.0.0.0 web.beta.facebook.com
-0.0.0.0 web.facebook.com
 0.0.0.0 webdav.facebook.com
 0.0.0.0 wooga.m.facebook.com
 0.0.0.0 work-98949980.facebook.com
