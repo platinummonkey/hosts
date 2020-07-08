@@ -2,8 +2,8 @@
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Sun, 28 Jun 2020 14:25:26 GMT
-# entries:        3475
+# last updated:   Wed, 08 Jul 2020 16:13:29 GMT
+# entries:        3483
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&mimetype=plaintext&useip=0.0.0.0
@@ -11,7 +11,7 @@
 # other formats:  https://pgl.yoyo.org/adservers/formats.php
 # policy:         https://pgl.yoyo.org/adservers/policy.php
 #
-# start date:    Mon, 03 Jul 2000 00:00:00
+# start date:    Thu, 13 Jul 2000 00:00:00
 0.0.0.0 1-1ads.com
 0.0.0.0 101com.com
 0.0.0.0 101order.com
@@ -53,6 +53,7 @@
 0.0.0.0 a.sakh.com
 0.0.0.0 a.ucoz.net
 0.0.0.0 a.ucoz.ru
+0.0.0.0 a.vartoken.com
 0.0.0.0 a.vfghd.com
 0.0.0.0 a.vfgtb.com
 0.0.0.0 a.xanga.com
@@ -69,6 +70,7 @@
 0.0.0.0 abashedangle.com
 0.0.0.0 abc-ads.com
 0.0.0.0 aboardlevel.com
+0.0.0.0 aboutads.gr
 0.0.0.0 abruptroad.com
 0.0.0.0 absentstream.com
 0.0.0.0 absoluteclickscom.com
@@ -162,6 +164,7 @@
 0.0.0.0 ad.preferances.com
 0.0.0.0 ad.profiwin.de
 0.0.0.0 ad.prv.pl
+0.0.0.0 ad.pttcn.net
 0.0.0.0 ad.reunion.com
 0.0.0.0 ad.sensismediasmart.com.au
 0.0.0.0 ad.seznam.cz
@@ -560,6 +563,7 @@
 0.0.0.0 ads.leovegas.com
 0.0.0.0 ads.lesbianpersonals.com
 0.0.0.0 ads.liberte.pl
+0.0.0.0 ads.lifethink.net
 0.0.0.0 ads.linkedin.com
 0.0.0.0 ads.linuxfoundation.org
 0.0.0.0 ads.livenation.com
@@ -639,7 +643,6 @@
 0.0.0.0 ads.rcncdn.de
 0.0.0.0 ads.rcs.it
 0.0.0.0 ads.recoletos.es
-0.0.0.0 ads.redactor.in.ua
 0.0.0.0 ads.rediff.com
 0.0.0.0 ads.redlightcenter.com
 0.0.0.0 ads.revjet.com
@@ -915,6 +918,7 @@
 0.0.0.0 adv-adserver.com
 0.0.0.0 adv-banner.libero.it
 0.0.0.0 adv.cooperhosting.net
+0.0.0.0 adv.donejty.pl
 0.0.0.0 adv.freeonline.it
 0.0.0.0 adv.hwupgrade.it
 0.0.0.0 adv.livedoor.com
@@ -1276,7 +1280,6 @@
 0.0.0.0 bm.annonce.cz
 0.0.0.0 bn.bfast.com
 0.0.0.0 bnnrrv.qontentum.de
-0.0.0.0 boersego-ads.de
 0.0.0.0 boffoadsapi.com
 0.0.0.0 boilingbeetle.com
 0.0.0.0 boilingumbrella.com
@@ -1404,6 +1407,7 @@
 0.0.0.0 clickhouse.com
 0.0.0.0 clickhype.com
 0.0.0.0 clicklink.jp
+0.0.0.0 clickmate.io
 0.0.0.0 clickonometrics.pl
 0.0.0.0 clicks.equantum.com
 0.0.0.0 clicks.mods.de
@@ -1764,7 +1768,6 @@
 0.0.0.0 findcommerce.com
 0.0.0.0 findepended.com
 0.0.0.0 findyourcasino.com
-0.0.0.0 fingahvf.top
 0.0.0.0 first.nova.cz
 0.0.0.0 firstlightera.com
 0.0.0.0 fixel.ai
@@ -1878,6 +1881,7 @@
 0.0.0.0 h92zbpn4zcv1.com
 0.0.0.0 habitualhumor.com
 0.0.0.0 hadskiz.com
+0.0.0.0 haltingbadge.com
 0.0.0.0 hammerhearing.com
 0.0.0.0 handyfield.com
 0.0.0.0 hardtofindmilk.com
@@ -2101,6 +2105,7 @@
 0.0.0.0 ladsreds.com
 0.0.0.0 ladsup.com
 0.0.0.0 lakequincy.com
+0.0.0.0 lameletters.com
 0.0.0.0 lanistaads.com
 0.0.0.0 larati.net
 0.0.0.0 laughablecopper.com
@@ -2687,6 +2692,7 @@
 0.0.0.0 radarurl.com
 0.0.0.0 radiate.com
 0.0.0.0 railwayrainstorm.com
+0.0.0.0 railwayreason.com
 0.0.0.0 rampidads.com
 0.0.0.0 rank-master.com
 0.0.0.0 rankchamp.de
@@ -2716,6 +2722,7 @@
 0.0.0.0 realclever.com
 0.0.0.0 realclix.com
 0.0.0.0 realmedia-a800.d4p.net
+0.0.0.0 realsrv.com
 0.0.0.0 realtechnetwork.com
 0.0.0.0 realtracker.com
 0.0.0.0 rebelsubway.com
@@ -2873,7 +2880,6 @@
 0.0.0.0 shallowsmile.com
 0.0.0.0 shareadspace.com
 0.0.0.0 shareasale.com
-0.0.0.0 sharepointads.com
 0.0.0.0 sharethrough.com
 0.0.0.0 sharppatch.com
 0.0.0.0 sher.index.hu
@@ -3195,6 +3201,7 @@
 0.0.0.0 tracking.1-a1502-bi.co.uk
 0.0.0.0 tracking.1-kv015-ap.co.uk
 0.0.0.0 tracking.21-a4652-bi.co.uk
+0.0.0.0 tracking.42-01pr5-osm-secure.co.uk
 0.0.0.0 tracking.5-47737-bi.co.uk
 0.0.0.0 tracking.crunchiemedia.com
 0.0.0.0 tracking.epicgames.com
@@ -3259,6 +3266,7 @@
 0.0.0.0 truehits2.gits.net.th
 0.0.0.0 trustx.org
 0.0.0.0 tsyndicate.com
+0.0.0.0 tsyndicate.net
 0.0.0.0 tubemogul.com
 0.0.0.0 turboadv.com
 0.0.0.0 turn.com
